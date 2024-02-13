@@ -10,7 +10,7 @@ Prova exament del Mòdul M5: Entorns de desenvolupament.
 - S'ha corretgit els errors al codi Tictactoe a la funció `tirContrincant`.
  
 ### Tasca 2.2. JavaDocs
-PDF entregat al Moodle
+- PDF entregat al Moodle
 
 ## Tasca 3. Control de versions i repositori Git
 - Tasca pujada en aquest repositori
