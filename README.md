@@ -12,6 +12,6 @@ Prova exament del Mòdul M5: Entorns de desenvolupament.
 ### Tasca 2.2. JavaDocs
 PDF entregat al Moodle
 
-### Control de versions i repositori Git
+## Tasca 3. Control de versions i repositori Git
 - Tasca pujada en aquest repositori
 - Entregat a classe (paper)
